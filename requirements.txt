@@ -1,0 +1,6 @@
+fire
+gdown
+transformers
+datasets
+rouge_score
+pandas
